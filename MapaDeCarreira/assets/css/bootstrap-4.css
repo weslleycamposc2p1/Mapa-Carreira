@@ -127,6 +127,7 @@ header{
   }
 }
 
+
 [data-bs-theme="dark"] {
   color-scheme: dark;
   --bs-body-color: #adb5bd;
@@ -11755,6 +11756,18 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .theme-progress-bar-dark {
   background-color: #328998;
+}
+
+.theme-progress-bar-dark1{
+  background-color: orangered;
+}
+
+.theme-progress-bar-dark2{
+  background-color: yellow;
+}
+
+.theme-progress-bar-dark3{
+  background-color:green;
 }
 
 .resume-wrapper {
