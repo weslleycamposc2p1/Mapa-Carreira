@@ -119,6 +119,14 @@
   --bs-form-invalid-border-color: #dc3545;
 }
 
+header{
+  overflow: hidden;
+  img{
+    position: relative;
+    bottom: 23px;
+  }
+}
+
 [data-bs-theme="dark"] {
   color-scheme: dark;
   --bs-body-color: #adb5bd;
