@@ -2632,6 +2632,16 @@ textarea.form-control-lg {
   line-height: 1.25;
 }
 
+header{
+  overflow: hidden;
+  img{
+    position: relative;
+    bottom: 23px;
+  }
+}
+
+
+
 .form-floating > label {
   position: absolute;
   top: 0;
