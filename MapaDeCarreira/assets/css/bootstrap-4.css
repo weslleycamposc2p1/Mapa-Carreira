@@ -11770,6 +11770,14 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   background-color:green;
 }
 
+.theme-progress-bar-dark4{
+  background-color:#0d6efd;
+}
+
+.theme-progress-bar-dark5{
+  background-color:#fd7e14;
+}
+
 .resume-wrapper {
   padding-top: 30px;
   padding-bottom: 60px;
